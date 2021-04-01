@@ -1,0 +1,89 @@
+/*=====================
+ global 
+======================*/
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap");
+
+:root {
+	/* ---------theme colors (varibale)---------- */
+	--clr-gray: #bdb8b1;
+	--text-curry: #cc8523;
+	--text-curry2: rgb(205, 130, 35);
+	--clr-blue: #231a9c;
+	--clr-skyblue: #a1c9d4;
+	--transition: all 0.2s linear;
+	--clr-offwhite: #f2f2f2;
+	--b-radius: 0.5rem;
+	--clr-white: #fff;
+	--clr-black: #000000;
+	--b-shadow: 0 5px 15px rgba(0, 0, 0, 1);
+	--ff-open-sans: "Open Sans", sans-serif;
+}
+
+*,
+::after,
+::before {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: var(--ff-open-sans);
+	font-weight: bold;
+}
+
+body {
+	line-height: 1.5;
+	font-family: var(--ff-open-sans);
+	background: var(--clr-offwhite);
+}
+
+/*=====================
+ calculator 
+======================*/
+
+.calculator-grid {
+	display: grid; /*one logologo line */
+	justify-content: center; /*button squeeze in middle */
+	align-content: center; /*button close together in the middle */
+	min-height: 100vh; /*one logologo line spreads down the entire page*/
+	grid-template-columns: repeat(4, 100px); /*repeat row 4times each 100px */
+	grid-template-rows: minmax(120px, auto), repeat(5, 100px); /*the first row is the output which should take a minimum of 120px and max should be auto to accomodate huge figure. subsequent 5 rows should repeat 5 times each 100px */
+}
+
+.calculator-grid > button {
+	font-size: 1.75rem;
+	cursor: pointer;
+	border: 1.5px solid var(--clr-blue);
+	outline: none;
+	background: var(--clr-skyblue);
+	padding: 1rem 0;
+}
+
+.calculator-grid > button:hover {
+	background: var(--clr-white);
+}
+
+.two-boxes {
+	grid-column: span 2; /*takes upt two spaces*/
+}
+
+.output {
+	grid-column: 1/-1; /*basically move from current column up to prev column, -1 */
+	background: var(--clr-blue);
+	display: flex; /*this is not a button so use flex box to position contents*/
+	flex-direction: column;
+	align-items: flex-end;
+	justify-content: space-between;
+	padding: 1rem;
+	word-wrap: break-word;
+	word-break: break-all; /* it wraps and break the word around if the output becomes too oneg and dont forget that that row has minmax which accomodates the space*/
+	height: 120px;
+}
+
+.output > .prev-operation {
+	color: var(--clr-gray);
+	font-size: 1.25rem;
+}
+
+.output > .current-operation {
+	color: var(--clr-white);
+	font-size: 2rem;
+}
