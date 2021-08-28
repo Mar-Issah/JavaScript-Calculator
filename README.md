@@ -1,4 +1,4 @@
-# JavaScript-Calculator
+# JavaScript Calculator
 A Calculator web app  built with JavaScript.
 
 This is a simple web application web application project mainly to practice my HTML5, CSS3 and JavaScript skills.
