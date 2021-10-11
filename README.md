@@ -47,7 +47,7 @@ This is JavaScript Web application which runs in the browser. You need a V8 engi
 
 ## Project View
 
-[Click here](https://codepen.io/marsiya-issah/full/PoGKWpB) to view project on CodePen
+[Click here](https://codepen.io/marsiya-issah/full/PoGKWpB) to view project on CodePen.
 ![JavaScript Calculator](https://res.cloudinary.com/dytnpjxrd/image/upload/v1617240681/My%20Website%20Projects/js_calculator2_zqmidn.png)
 
 
