@@ -29,16 +29,16 @@ This is JavaScript Web application which runs in the browser. You need a V8 engi
 
 ### Installation
 
-1. Clone the repo on your local machine
+1. Clone the repo on your local machine.
    ```sh
    git clone https://github.com/Mar-Issah/JavaScript-Calculator.git
    ```
-2. Download and install [Visual Studio Code](https://code.visualstudio.com/)
-3. Install live server extension
-4. Open index.html file with live server to run the app in browser
+2. Download and install [Visual Studio Code](https://code.visualstudio.com/).
+3. Install live server extension.
+4. Open index.html file with live server to run the app in browser.
 
 # OR
-5. Search for the index.html file in the folder and open/run with your browser
+5. Search for the index.html file in the folder and open/run with your browser.
 
 
 <br>
