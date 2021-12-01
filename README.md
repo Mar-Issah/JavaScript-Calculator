@@ -25,6 +25,7 @@ This project is a calcultor which runs on the web.
 <!-- GETTING STARTED -->
 
 ## Getting Started
+
 This is JavaScript Web application which runs in the browser. You need a V8 engive to run JavaScript program. For the purpose of this project I used Google Chrome browser.
 
 ### Installation
