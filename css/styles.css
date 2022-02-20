@@ -1,5 +1,5 @@
 /*=====================
- global 
+ global
 ======================*/
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap");
 
@@ -15,7 +15,7 @@
 	--b-radius: 0.5rem;
 	--clr-white: #fff;
 	--clr-black: #000000;
-	--b-shadow: 0 5px 15px rgba(0, 0, 0, 1);
+	--b-shadow: 0 5px 15px rgba(0, 0, 0, 0.9);
 	--ff-open-sans: "Open Sans", sans-serif;
 }
 
@@ -36,7 +36,7 @@ body {
 }
 
 /*=====================
- calculator 
+ calculator
 ======================*/
 
 .calculator-grid {
