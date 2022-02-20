@@ -1,8 +1,8 @@
 # JavaScript Calculator
-A Calculator web app  built with JavaScript.
 
-This is a simple web application web application project mainly to practice my HTML5, CSS3 and JavaScript skills.
+A Calculator web app built with JavaScript.
 
+This is a simple web application project mainly to practice my HTML5, CSS3 and JavaScript skills.
 
 ## About The Project
 
@@ -13,12 +13,12 @@ This project is a calcultor which runs on the web.
 <br>
 
 ### Built With / Requirements :construction_worker:
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
 
 <br>
 
@@ -26,7 +26,7 @@ This project is a calcultor which runs on the web.
 
 ## Getting Started
 
-This is JavaScript Web application which runs in the browser. You need a V8 engive to run JavaScript program. For the purpose of this project I used Google Chrome browser.
+This is JavaScript Web application which runs in the browser. You need a V8 engine to run JavaScript program. For the purpose of this project I used Google Chrome browser.
 
 ### Installation
 
@@ -39,8 +39,8 @@ This is JavaScript Web application which runs in the browser. You need a V8 engi
 4. Open index.html file with live server to run the app in browser.
 
 # OR
-5. Search for the index.html file in the folder and open/run with your browser.
 
+5. Search for the index.html file in the folder and open/run with your browser.
 
 <br>
 
@@ -50,7 +50,6 @@ This is JavaScript Web application which runs in the browser. You need a V8 engi
 
 [Click here](https://codepen.io/marsiya-issah/full/PoGKWpB) to view project on CodePen.
 ![JavaScript Calculator](https://res.cloudinary.com/dytnpjxrd/image/upload/v1617240681/My%20Website%20Projects/js_calculator2_zqmidn.png)
-
 
 <br>
 <!-- CONTRIBUTING -->
@@ -83,7 +82,3 @@ Marsiya Issah: masy370@gmail.com.
 Project Link: [https://github.com/Mar-Issah/JavaScript-Calculator.git](https://github.com/Mar-Issah/JavaScript-Calculator.git)
 
 Kindly check out more of my projects on [CodePen](https://codepen.io/your-work/).
-
-
-
-
