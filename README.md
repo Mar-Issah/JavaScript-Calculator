@@ -1,7 +1,7 @@
 # JavaScript Calculator
 
-A Calculator web app built with vanilla JavaScript
-
+A Calculator web app built with vanilla JavaScript.
+.
 This is a simple web application project mainly to practice my HTML5, CSS3 and JavaScript skills.
 
 ## About The Project
