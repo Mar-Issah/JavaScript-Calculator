@@ -8,7 +8,7 @@ This is a simple web application project mainly to practice my HTML5, CSS3 and J
 
 ![JavaScript Calculator](https://res.cloudinary.com/dytnpjxrd/image/upload/v1617240680/My%20Website%20Projects/js_calculator_rb1uvj.png)
 
-This proj is a Calculator which runs on the web.
+This pro is a Calculator which runs on the web.
 
 <br>
 
